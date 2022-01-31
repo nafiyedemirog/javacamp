@@ -1,9 +1,9 @@
 package oopWorkshop2;
 
 public interface KrediApplicatinService {
-	void add(KrediApplication krediApplication, int amount);
+	void add(KrediApplication CreditApplication, int amount);
 
-	void update(KrediApplication krediApplication, int amount);
+	void update(KrediApplication creditApplication, int amount);
 
-	void delete(KrediApplication krediApplication);
+	void delete(KrediApplication creditApplication);
 }

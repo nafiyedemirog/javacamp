@@ -34,7 +34,7 @@ public class KrediApplication {
 		return kredi;
 	}
 
-	public void setKredi(Kredi kredi) {
+	public void setCredit(Kredi kredi) {
 		this.kredi = kredi;
 	}
 }
